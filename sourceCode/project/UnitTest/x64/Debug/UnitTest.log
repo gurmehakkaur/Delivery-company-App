@@ -1,0 +1,40 @@
+﻿  pch.cpp
+  UnitTest.cpp
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(320,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(321,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(343,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(344,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(371,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(372,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(399,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(400,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(438,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(439,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(468,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\UnitTest\UnitTest.cpp(469,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+     Creating library D:\Seneca Sem2\SFT\git clone\sourceCode\project\x64\Debug\UnitTest.lib and object D:\Seneca Sem2\SFT\git clone\sourceCode\project\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> D:\Seneca Sem2\SFT\git clone\sourceCode\project\x64\Debug\UnitTest.dll

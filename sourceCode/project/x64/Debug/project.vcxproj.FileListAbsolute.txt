@@ -1,0 +1,2 @@
+D:\Seneca Sem2\SFT\sourceCode\project\x64\Debug\project.exe
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\x64\Debug\project.exe

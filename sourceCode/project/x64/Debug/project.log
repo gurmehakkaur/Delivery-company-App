@@ -1,0 +1,11 @@
+﻿  main.c
+  mapping.c
+  myFunctions.c
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\myFunctions.c(118,39): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\myFunctions.c(119,39): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\myFunctions.c(120,54): warning C4090: '=': different 'const' qualifiers
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\myFunctions.c(317,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Seneca Sem2\SFT\git clone\sourceCode\project\myFunctions.c(318,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Source.cpp
+  project.vcxproj -> D:\Seneca Sem2\SFT\git clone\sourceCode\project\x64\Debug\project.exe
