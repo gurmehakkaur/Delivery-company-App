@@ -1,10 +1,3 @@
-/*
-*           SFT PROJECT - MILESTONE 5
-*           SECTION: ZBB
-*           GROUP: D
-*           TEAM MEMBERS:
-*           ARSHNOOR KAUR, GURMEHAK KAUR UPPAL, AJAYPARTAP SINGH MAAN, MANAS GANDOTRA
-*/
 #include "pch.h"
 #include "UnitTest.h"
 #include "CppUnitTest.h"

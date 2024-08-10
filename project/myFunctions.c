@@ -1,11 +1,3 @@
-/*
-*           SFT PROJECT - MILESTONE 3
-*           SECTION: ZBB
-*           GROUP: D
-*           TEAM MEMBERS:
-*           ARSHNOOR KAUR, GURMEHAK KAUR UPPAL, AJAYPARTAP SINGH MAAN, MANAS GANDOTRA
-*/
-
 #define _CRT_SECURE_NO_WARNINGS
 #include "myFunctions.h"
 #include "myHeader.h"
