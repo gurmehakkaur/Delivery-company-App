@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0ec929c0-227c-4ab8-aa58-34a5373ced02)
 ![image](https://github.com/user-attachments/assets/a2812400-d8ff-4e14-89f1-7b16c7353f0d)
 
 ##Managed Development tasks, Test Results and Bugs on Jira
