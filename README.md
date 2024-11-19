@@ -1,4 +1,9 @@
 ![image](https://github.com/user-attachments/assets/a2812400-d8ff-4e14-89f1-7b16c7353f0d)
+
+##Managed Development tasks, Test Results and Bugs on Jira
+![image](https://github.com/user-attachments/assets/af1a08e6-8b0b-4af3-ba75-28503e882961)
+
+
 ### How to Run the Application
 1. Clone this repository:
    ```bash
